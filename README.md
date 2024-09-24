@@ -1,5 +1,5 @@
 # DataStructure_project
-String Checker - algorithm and data structure project
+String Checker algorithm
 
 # WordChecker
 
